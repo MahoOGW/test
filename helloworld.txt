@@ -5,3 +5,7 @@ konban world
 ohayo world
 
 arigato world
+
+tsukareta world
+
+oyasumi world
