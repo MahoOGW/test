@@ -9,3 +9,5 @@ arigato world
 tsukareta world
 
 oyasumi world
+
+ohayo world
